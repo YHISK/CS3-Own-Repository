@@ -17,9 +17,11 @@ cloudstream {
      * 3: Beta only
      * */
     status = 1 // will be 3 if unspecified
-    Type = listOf(
+    tvTypes = listOf(
+        "AnimeMovie",
+        "OVA",
         "Anime",
     )
 
-    icon = ""
+    iconUrl = ""
 }
