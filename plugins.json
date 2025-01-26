@@ -1,14 +1,14 @@
 [
   {
     "name": "AnimeFenix",
-    "type": "video",
+    "type": "anime","OVA","animemovie",
     "url": "https://animefenix.es/",
-    "icon": "https://animefenix.es/favicon.ico",
+    "icon": "",
     "description": "Plataforma para ver anime en español.",
     "nsfw": false,
     "languages": ["es"],
     "latestVersion": "1.0.0",
-    "downloadUrl": "https://tu-servidor.com/animefenix-extension.js"
+    "downloadUrl": ""
   },
   {
     "name": "CineCalidad",
