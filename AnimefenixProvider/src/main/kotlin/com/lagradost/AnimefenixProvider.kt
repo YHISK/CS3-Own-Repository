@@ -12,14 +12,16 @@ import java.util.*
 
 class AnimefenixProvider:MainAPI() {
 
-    override var url = "https://animefenix.com"
+    override var mainUrl = "https://animefenix.com"
     override var name = "Animefenix"
-    override var languages = "es"
+    override var lang = "es"
     override val hasMainPage = true
     override val hasChromecastSupport = true
     override val hasDownloadSupport = true
     override val supportedTypes = setOf(
-        Type.Anime,
+        TvType.AnimeMovie,
+        TvType.OVA,
+        TvType.Anime,
     )
 
     fun getDubStatus(title: String): DubStatus {
