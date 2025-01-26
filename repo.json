@@ -3,6 +3,6 @@
     "description": "Prueba de Repositorio para CS3",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/YHISK/CS3-Own-Repository/refs/heads/main/plugins.json?token=GHSAT0AAAAAAC545HAXZKLXUDQBE5WHY6HAZ4VVB4Q"
+      "https://raw.githubusercontent.com/YHISK/CS3-Own-Repository/refs/heads/main/plugins.json"
     ]
 }
