@@ -9,27 +9,4 @@
     "languages": ["es"],
     "latestVersion": "1.0.0",
     "downloadUrl": ""
-  },
-  {
-    "name": "CineCalidad",
-    "type": "video",
-    "url": "https://www.cinecalidad.ec/",
-    "icon": "https://www.cinecalidad.ec/favicon.ico",
-    "description": "Películas en alta calidad en español.",
-    "nsfw": false,
-    "languages": ["es"],
-    "latestVersion": "1.0.0",
-    "downloadUrl": "https://tu-servidor.com/cinecalidad-extension.js"
-  },
-  {
-    "name": "SoloLatino",
-    "type": "video",
-    "url": "https://sololatino.net/",
-    "icon": "https://sololatino.net/favicon.ico",
-    "description": "Películas y series latinas.",
-    "nsfw": false,
-    "languages": ["es"],
-    "latestVersion": "1.0.0",
-    "downloadUrl": "https://tu-servidor.com/sololatino-extension.js"
   }
-]
