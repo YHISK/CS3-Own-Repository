@@ -1,8 +1,0 @@
-{
-    "name": "Repo en Español para CS3 by YHISK",
-    "description": "Prueba de Repositorio para CS3",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/YHISK/CS3-Own-Repository/refs/heads/main/plugins.json"
-    ]
-}
